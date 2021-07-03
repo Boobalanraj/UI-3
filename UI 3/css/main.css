@@ -1,0 +1,136 @@
+*{
+	box-sizing:border-box ;
+	margin:0;
+	padding: 0;
+	
+}
+body{
+	font-family: 'Quicksand', sans-serif;
+	line-height: 1.2;
+}
+
+.box{
+	width: 1310px;
+	height: 573px;
+	background:#bce2f8;
+	top: 5%;
+	left: 2.2%;
+	position: absolute;
+	box-sizing:  border-box;
+	border-radius: 0px;
+}
+
+h1{
+	color: black;
+	font-size: 50px;
+	font-weight: bold;
+	text-align: center;
+	padding-bottom: 2%;
+	
+}
+
+h2{
+	color: black;
+	font-size: 25px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.boxes{
+	width: 320px;
+	height: 240px;
+	background:white;
+	top:338px;
+	left: 70px;
+	position: absolute;
+	box-sizing:  border-box;
+	border-radius: 20px;
+}
+
+.boxes .skate{
+	max-width: 100%;
+	height: 100px;
+	padding-top: 20px;
+	padding-left: 15px;
+	padding-bottom: 1.5%;
+}
+
+.boxes h1{
+	margin-left: 6%;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 30px;
+	font-weight:bold;
+	text-align: left;
+}
+
+.boxes p{
+	margin-left: 6%;
+	font-size: 15px;
+	font-weight:bold;
+}
+
+.boxes2{
+	width: 320px;
+	height: 240px;
+	background:white;
+	top:338px;
+	left: 525px;
+	position: absolute;
+	box-sizing:  border-box;
+	border-radius: 20px;
+}
+
+.boxes2 .protection{
+	max-width: 100%;
+	height: 100px;
+	padding-top: 20px;
+	padding-left: 15px;
+	padding-bottom: 1.5%;
+}
+
+.boxes2 h1{
+	margin-left: 6%;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 30px;
+	font-weight:bold;
+	text-align: left;
+}
+
+.boxes2 p{
+	margin-left: 6%;
+	font-size: 15px;
+	font-weight:bold;
+}
+
+.boxes3{
+	width: 320px;
+	height: 240px;
+	background:white;
+	top:338px;
+	left: 980px;
+	position: absolute;
+	box-sizing:  border-box;
+	border-radius: 20px;
+}
+
+.boxes3 .scheduled{
+	max-width: 100%;
+	height: 100px;
+	padding-top: 20px;
+	padding-left: 15px;
+	padding-bottom: 1.5%;
+}
+
+.boxes3 h1{
+	margin-left: 6%;
+	font-family: 'Reenie Beanie', cursive;
+	font-size: 30px;
+	font-weight:bold;
+	text-align: left;
+}
+
+.boxes3 p{
+	margin-left: 6%;
+	font-size: 15px;
+	font-weight:bold;
+}
